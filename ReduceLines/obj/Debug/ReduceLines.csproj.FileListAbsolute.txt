@@ -1,0 +1,12 @@
+/Users/bob/Downloads/ReduceLines/ReduceLines/obj/Debug/ReduceLines.csprojAssemblyReference.cache
+/Users/bob/Downloads/ReduceLines/ReduceLines/obj/Debug/ReduceLines.csproj.CoreCompileInputs.cache
+/Users/bob/Downloads/ReduceLines/ReduceLines/obj/Debug/ReduceLines.exe
+/Users/bob/Downloads/ReduceLines/ReduceLines/obj/Debug/ReduceLines.pdb
+/Users/bob/Downloads/ReduceLines/ReduceLines/ReduceLines.exe
+/Users/bob/Downloads/ReduceLines/ReduceLines/ReduceLines.pdb
+/Users/bob/Documents/Firefly Art/ReduceLines/obj/Debug/ReduceLines.csprojAssemblyReference.cache
+/Users/bob/Documents/Firefly Art/ReduceLines/obj/Debug/ReduceLines.csproj.CoreCompileInputs.cache
+/Users/bob/Documents/Firefly Art/ReduceLines/obj/Debug/ReduceLines.exe
+/Users/bob/Documents/Firefly Art/ReduceLines/obj/Debug/ReduceLines.pdb
+/Users/bob/Documents/Firefly Art/ReduceLines/ReduceLines.exe
+/Users/bob/Documents/Firefly Art/ReduceLines/ReduceLines.pdb
